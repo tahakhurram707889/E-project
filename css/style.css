@@ -1,0 +1,270 @@
+body{
+    
+    background-color:rgba(8, 8, 116, 0.222);
+}
+
+
+.custom-main{
+    background-color: gray;
+}
+
+.custom-li{
+    color: #122620;
+}
+
+.custom-li:hover{
+    height: 40px;
+    color: white;
+    font-weight: 500;
+}
+
+.custom-btn{
+    color: #122620;
+    border: 1px solid white;
+    border-radius: 30px;
+}
+
+.custom-btn:hover{
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 30px;
+    color: white;
+}
+
+#imgwithbg{
+    /* width: 100%; */
+    height: 550px;
+    /* margin-bottom: 50px; */
+    background-image: url(https://img.freepik.com/premium-photo/holiday-banner-top-view-gift-wrapped-as-gift-kraft-paper-decorated-with-ribbon-pink_68196-1860.jpg?w=1060);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: start;
+   
+    flex-direction: column;
+
+}
+
+#para{
+    color: #122620;
+    font-size: 63px;
+    font-weight: bolder;
+}
+
+#xyz{
+    margin: 40px;
+    padding: 10px;
+    background-color: #122620;
+    color: beige;
+}
+
+.navbar-nav{
+    margin-left: 290px;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+    font-size: 40px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+.navbar-brand:hover{
+    color: black;
+}
+
+h1{
+  margin: 50px;
+    text-decoration: none;
+}
+
+h3{
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+}
+
+a{
+    color: black;
+}
+
+footer{
+    background-color: grey;
+    /* padding-top: 50px; */
+}
+
+.f-content{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+.list li{
+    /* width: auto; */
+    text-align: center;
+    list-style-type:none;
+    padding: 7px;
+    /* position: relative; */
+}
+.list a:hover{
+  color: #fff;
+}
+
+.social-icons{
+    text-align: center;
+    padding: 0;
+}
+.social-icons li{
+    /* display: inline-block; */
+    list-style: none;
+    text-align: center;
+    padding: 5px;
+}
+.social-icons i{
+    color: white;
+    font-size: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.bottom-bar{
+    background: #f18930;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 50px;
+}
+.bottom-bar p{
+    color: #343434;
+    margin: 0;
+    font-size: 16px;
+    padding: 7px;
+}
+
+.custom-acc{
+    padding: 10px;
+}
+
+
+.contactusbody{
+    font-family: Arial, sans-serif;
+    background-color: white;
+   }
+
+  label {
+    font-weight: bold;
+  }
+
+ .custom-input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  input,
+  textarea {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+
+  input[type="submit"] {
+    background-color: rgb(68, 68, 68);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+  }
+
+  .map-con {
+    border-radius: 8px;
+    width: 100%;
+  }
+  .map{
+    background-color: #908d8d;
+  }
+
+  #map {
+    width: 100%;
+    height: 300px; /* Adjust the height as needed*/
+  }
+
+  .card { 
+    /* height: 570px; */
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    /* margin: 20px; */
+    box-shadow: 10px 10px 10px 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+  }
+
+  .card:hover{
+    transform: scale(1.075);
+    background-color:rgba(8, 8, 116, 0.222);
+      transform: .05s;
+  
+
+  }
+  .card button:hover{
+    background-color: #343434;
+  }
+  
+.card img{
+  height: 300px;
+  width: 100%;
+}
+
+  .details {
+  
+    /* width: 100%; */
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+  }
+
+  .card h2 {
+    margin-top: 0;
+  }
+  
+  .card p {
+    margin: 10px 0;
+  }
+
+  .card button{
+    text-align: center;
+    margin: 10px;
+    border: 1px solid rgb(23, 8, 82);
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.285);
+    color: white;
+  }
+
+  #women{
+    /* margin: 30px; */
+    color: #122620;
+  }
+
+  #men{
+    /* margin: 30px; */
+    color: #122620;
+  }
+
+  .main{
+
+    background-color:white;
+
+  } 
+  
